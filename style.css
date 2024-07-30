@@ -183,4 +183,7 @@ h2 {
     .footer{
         text-align: center;
     }
+    .nav1 ul li>a{
+        padding:0px !important;
+    }
 }
